@@ -1,0 +1,26 @@
+a:hover {
+	color: #fcba03;
+	transition: 0.3s;
+}
+  
+a {
+	color: #6666FF;
+	transition: 0.3s;
+}
+  
+body {
+	color: #EEEEEE;
+	font-family: "Lucida Console", Monaco, monospace;
+	background-color: black;
+}
+
+.sidebar {
+	float: left;
+	width: 175px;
+	height: 300px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 2px;
+	padding-right: 5px;
+	border: #6666FF solid 1px;
+}
