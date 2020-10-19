@@ -1,4 +1,4 @@
 #!/bin/sh
 git add .
-git commit -m "stuff changed"
+git commit
 git push -u https://github.com/jammy3662/zalgo.net main
